@@ -1,6 +1,7 @@
 # Social Media Backend API
 
-This is a backend-only Spring Boot project for a basic social media application. It allows users to register, log in, create posts, like posts, comment on posts, and perform CRUD operations on users, posts, likes, and comments.
+This is a backend-only Spring Boot project for a basic social media application. It allows users to register, log in, create posts, like posts, comment on posts, and perform CRUD operations on users, posts, likes, and comments.![Banner](socialmedia-backend-banner.png)
+
 
 ## 🔧 Technologies Used
 - Java 17
