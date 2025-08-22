@@ -72,9 +72,6 @@ jwt.secret=yourSecretKey
 3.Run with Maven:
 mvn spring-boot:run
 
-<img width="4696" height="9624" alt="image" src="https://github.com/user-attachments/assets/ab9a460c-5851-419e-b8f3-2f77f6fad766" />
-
-
 4.📸 Screenshots
 
 Swagger UI :- ( Postman API Tested )
