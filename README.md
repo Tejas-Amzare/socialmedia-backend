@@ -74,4 +74,15 @@ mvn spring-boot:run
 
 4.📸 Screenshots
 
-Swagger UI :-
+Swagger UI :- 
+<img width="1317" height="860" alt="1" src="https://github.com/user-attachments/assets/cf886842-fa2c-46d7-8aa8-9692dbffbe25" />
+<img width="1270" height="255" alt="2" src="https://github.com/user-attachments/assets/4dff7916-c2ff-4fc0-aac8-870b7e1a274f" />
+<img width="1283" height="310" alt="3" src="https://github.com/user-attachments/assets/5b98b7ba-c0b6-4b6a-b98b-dabc242b178e" />
+<img width="1299" height="611" alt="4" src="https://github.com/user-attachments/assets/5c99a56c-00e8-4883-8247-250071009d25" />
+<img width="908" height="783" alt="5" src="https://github.com/user-attachments/assets/9280964c-4670-4118-8f79-fa4a1ccc4d7c" />
+
+
+
+
+
+
