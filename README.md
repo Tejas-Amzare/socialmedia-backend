@@ -80,7 +80,7 @@ Swagger UI :- ( Postman API Tested )
 <img width="1283" height="310" alt="3" src="https://github.com/user-attachments/assets/5b98b7ba-c0b6-4b6a-b98b-dabc242b178e" />
 <img width="1299" height="611" alt="4" src="https://github.com/user-attachments/assets/5c99a56c-00e8-4883-8247-250071009d25" />
 <img width="908" height="783" alt="5" src="https://github.com/user-attachments/assets/9280964c-4670-4118-8f79-fa4a1ccc4d7c" />
-<img width="802" height="818" alt="Screenshot 2025-08-18 000347" src="https://github.com/user-attachments/assets/a484f625-f98d-4920-9d93-151e09b2c459" />
+
 
 
 
