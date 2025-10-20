@@ -199,6 +199,8 @@ Sample Postman Requests
 <img width="1270" height="255" alt="2" src="https://github.com/user-attachments/assets/d4897f64-0030-48f2-b59d-3f6abf55516f" />
 <img width="1283" height="310" alt="3" src="https://github.com/user-attachments/assets/71d447c2-1c6f-4cc5-961f-e63da5d26096" />
 <img width="1299" height="611" alt="4" src="https://github.com/user-attachments/assets/bfe26353-f695-42cd-8855-f6485b120ff9" />
+
+Database ER Diagram :-
 <img width="908" height="783" alt="5" src="https://github.com/user-attachments/assets/197d3614-2a06-4a4b-b7f5-13f82fbbd36a" />
 
 
