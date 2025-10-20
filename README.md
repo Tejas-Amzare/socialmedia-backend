@@ -187,6 +187,8 @@ Content-Type: application/json
   "userId": 2,
   "content": "Great post!"
 }
+
+
 📸 Visuals
 Swagger UI
 
