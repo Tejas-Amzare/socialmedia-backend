@@ -213,7 +213,7 @@ Sample Postman Requests
 Database ER Diagram :-
 <img width="908" height="783" alt="5" src="https://github.com/user-attachments/assets/197d3614-2a06-4a4b-b7f5-13f82fbbd36a" />
 
-
+---
 ##🤝 Contributing
 Contributions are welcome! Please:
 
@@ -227,20 +227,21 @@ Push to your branch (git push origin feature-name)
 
 Open a Pull Request
 
+---
 ##📝 License
 This project is licensed under the Apache 2.0 License - see LICENSE file for details.
-
-##📫 Contact :-
-
-
+---
+## 👤 Author
 Tejas Gajanan Amzare
 
 
-📧 Email: tejasamzare@gmail.com
+## 📞 Contact
 
+For questions or support, please open an issue in the repository.
+
+📧 Email: tejasamzare@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/tejas-amzare
 
-
-
 **Built with ❤️ using Spring Boot**
+
