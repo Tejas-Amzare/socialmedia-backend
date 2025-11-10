@@ -227,10 +227,10 @@ Push to your branch (git push origin feature-name)
 
 Open a Pull Request
 
----
-##📝 License
+
+## 📝 License
 This project is licensed under the Apache 2.0 License - see LICENSE file for details.
----
+
 ## 👤 Author
 Tejas Gajanan Amzare
 
