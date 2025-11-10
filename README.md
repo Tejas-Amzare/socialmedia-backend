@@ -100,6 +100,8 @@ socialmedia-backend/
 ---
 
 ## 🏗 Architecture Overview
+
+```
 ┌──────────────┐
 │ Clients │ <-- Web / Postman
 └──────┬───────┘
@@ -120,40 +122,40 @@ socialmedia-backend/
 │ MySQL / DB │
 └───────────────┘
 
-
-
 ---
-
 ## ⚙️ Setup & Installation
 ### Prerequisites
+```bash
 - Java 17  
 - Maven 3+  
 - MySQL installed and running  
 
 ### Steps
 1. Clone the repository:
-
+ ```bash
 git clone https://github.com/Tejas-Amzare/socialmedia-backend.git
 cd socialmedia-backend
 Configure application.properties:
 
 properties
-Copy code
+
 spring.datasource.url=jdbc:mysql://localhost:3306/socialmedia
 spring.datasource.username=root
 spring.datasource.password=yourpassword
 jwt.secret=yourSecretKey
 Run the application:
-
+ ```
 
 mvn spring-boot:run
 Access Swagger UI:
 
-
+```bash
 http://localhost:8080/swagger-ui/index.html
+ ```
 💻 Usage Examples
-Register a User
 
+```bash
+Register a User
 POST /api/auth/register
 Content-Type: application/json
 
@@ -162,8 +164,11 @@ Content-Type: application/json
   "email": "john@example.com",
   "password": "Password123"
 }
+
+ ```
 Create a Post (Authorized)
 
+```bash
 POST /api/posts/create
 Authorization: Bearer <JWT_TOKEN>
 Content-Type: application/json
@@ -172,12 +177,17 @@ Content-Type: application/json
   "title": "My First Post",
   "content": "Hello, world!"
 }
+ ```
 Like a Post
 
+```bash
 POST /api/posts/1/like?userId=2
 Authorization: Bearer <JWT_TOKEN>
+
+ ```
 Add a Comment
 
+```bash
 POST /api/comments/create
 Authorization: Bearer <JWT_TOKEN>
 Content-Type: application/json
@@ -187,7 +197,7 @@ Content-Type: application/json
   "userId": 2,
   "content": "Great post!"
 }
-
+ ```
 
 📸 Visuals
 Swagger UI
@@ -204,7 +214,7 @@ Database ER Diagram :-
 <img width="908" height="783" alt="5" src="https://github.com/user-attachments/assets/197d3614-2a06-4a4b-b7f5-13f82fbbd36a" />
 
 
-🤝 Contributing
+##🤝 Contributing
 Contributions are welcome! Please:
 
 Fork the repository
@@ -217,10 +227,10 @@ Push to your branch (git push origin feature-name)
 
 Open a Pull Request
 
-📝 License
+##📝 License
 This project is licensed under the Apache 2.0 License - see LICENSE file for details.
 
-📫 Contact :-
+##📫 Contact :-
 
 
 Tejas Gajanan Amzare
@@ -231,3 +241,6 @@ Tejas Gajanan Amzare
 
 🔗 LinkedIn: https://www.linkedin.com/in/tejas-amzare
 
+
+
+**Built with ❤️ using Spring Boot**
